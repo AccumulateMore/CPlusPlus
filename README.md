@@ -1,6 +1,6 @@
 # C++
 
-视频课程：（ 手撕代码、千万播放量 ）
+视频教程：（ 手撕代码、千万播放量 ）
 
 1. https://www.bilibili.com/video/BV1et411b73Z?p=1
 
