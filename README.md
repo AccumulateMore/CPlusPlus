@@ -9,3 +9,5 @@
 备注：安装Jupyter Notebook的目录插件，可以快速通过目录，跳转到相应的章节，如下图所示。
 
 ![image](https://user-images.githubusercontent.com/60348867/161884474-639f8818-5427-428d-a3a2-337c6ce776d3.png)
+
+补充：我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~~♥
