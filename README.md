@@ -12,9 +12,9 @@
 
 ![image](https://user-images.githubusercontent.com/60348867/161884474-639f8818-5427-428d-a3a2-337c6ce776d3.png)
 
-备注：笔记是用Jupyter Notebook打开的，可以看下面我写的笔记如何运行Jupyter notebook，可以百度、谷歌查一查即可。
+备注：笔记是用Jupyter Notebook打开的，可以看下面我写的笔记如何运行Jupyter notebook，或者百度、谷歌查一查即可。
 
-https://github.com/AccumulateMore/Python/tree/main/00_Python%E7%BC%96%E8%BE%91%E5%99%A8
+1. https://github.com/AccumulateMore/Python/tree/main/00_Python%E7%BC%96%E8%BE%91%E5%99%A8
 
 补充：我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~~♥
 
