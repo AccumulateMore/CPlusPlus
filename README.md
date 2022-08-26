@@ -14,7 +14,7 @@
 
 备注：有碰到异常情况的，或需要帮助的，可以加下面私人微信，跟我说一声，我进行维护。
 
-![0dcb9adb76a0c2d0e62657e33c5a9ef](https://user-images.githubusercontent.com/60348867/186916070-6985b361-43ba-4ff7-9b4c-55aad85b448a.jpg)
+![4a6d31c53caaff0f285abc05706d118](https://user-images.githubusercontent.com/60348867/186918709-08cac5ef-0300-47c8-917c-fe14d6a702fb.jpg)
 
 补充：我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~~♥
 
