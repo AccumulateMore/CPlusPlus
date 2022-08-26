@@ -17,5 +17,3 @@
 1. https://github.com/AccumulateMore
 
 "♥我的笔记，希望对你有帮助♥"
-
-♥内心独白：你的star，是我更新的动力~♥
