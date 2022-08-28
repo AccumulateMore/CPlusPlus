@@ -12,10 +12,6 @@
 
 1. https://github.com/AccumulateMore/Python
 
-备注：需要技术支持的，可以加下面私人微信。
-
-![4a6d31c53caaff0f285abc05706d118](https://user-images.githubusercontent.com/60348867/186918709-08cac5ef-0300-47c8-917c-fe14d6a702fb.jpg)
-
 补充：我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~~♥
 
 1. https://github.com/AccumulateMore
