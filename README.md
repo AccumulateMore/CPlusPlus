@@ -19,6 +19,4 @@ https://github.com/AccumulateMore
 
 ♥小声哔哔：你的star，是我更新的动力~♥
 
-![Uploading 08729eff-81c6-4227-a673-bef5eee42fd5.gif…]()
-
 C++相关方面需要指导，答疑解惑、解决问题，拜师的，可以加个人微信：XWTXZJL
