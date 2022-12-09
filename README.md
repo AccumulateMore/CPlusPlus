@@ -19,4 +19,4 @@ https://github.com/AccumulateMore
 
 ♥小声哔哔：你的star，是我更新的动力~♥
 
-C++相关方面需要指导，答疑解惑、解决问题，拜师的，可以加个人微信：XWTXZJL
+个人微信：XWTXZJL ( 如需指导 )
