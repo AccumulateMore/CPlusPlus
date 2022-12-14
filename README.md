@@ -21,6 +21,6 @@ https://github.com/AccumulateMore
 
 | 学习交流群                                                    | 个人微信                                                 |
 | ------------------------------------------------------------ | -------------------------------------------------------- |
-| ![239034558c56287b25fdcf2f2b41d59](https://user-images.githubusercontent.com/60348867/207513500-fe916b90-c17a-4fcd-b9c7-f525df606c4c.jpg)<br/> | ![ddde2cc0ba0132216dced3faf6c12ea](https://user-images.githubusercontent.com/60348867/207504858-9481a6d1-f33f-49c4-8702-06346fdb9554.jpg)<br> | 
+| ![239034558c56287b25fdcf2f2b41d59](https://user-images.githubusercontent.com/60348867/207513500-fe916b90-c17a-4fcd-b9c7-f525df606c4c.jpg)<br> | ![ddde2cc0ba0132216dced3faf6c12ea](https://user-images.githubusercontent.com/60348867/207504858-9481a6d1-f33f-49c4-8702-06346fdb9554.jpg)<br> | 
 
 备注：如果微信群二维码失效，加我微信，拉你进群。
