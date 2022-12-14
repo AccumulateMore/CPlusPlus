@@ -21,4 +21,4 @@ https://github.com/AccumulateMore
 
 | 学习交流群                                                    | 个人微信                                                 |
 | ------------------------------------------------------------ | -------------------------------------------------------- |
-| <img src=![773ee43ea1c9b4c3f5cecc6993256fa](https://user-images.githubusercontent.com/60348867/207504814-82a74090-3f06-446d-80d6-644fba9a9dd4.jpg)?x-oss-process=style/wp" style="width:200px" /><br/><br /> | <img src=![ddde2cc0ba0132216dced3faf6c12ea](https://user-images.githubusercontent.com/60348867/207504858-9481a6d1-f33f-49c4-8702-06346fdb9554.jpg)?x-oss-process=style/wp" ><br> | 
+| <img src=![773ee43ea1c9b4c3f5cecc6993256fa](https://user-images.githubusercontent.com/60348867/207504814-82a74090-3f06-446d-80d6-644fba9a9dd4.jpg) style="width:200px" /><br/><br /> | <img src=![ddde2cc0ba0132216dced3faf6c12ea](https://user-images.githubusercontent.com/60348867/207504858-9481a6d1-f33f-49c4-8702-06346fdb9554.jpg) ><br> | 
