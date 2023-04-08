@@ -6,7 +6,7 @@
 
 备注：
 
-1. 笔记是用Jupyter Notebook打开的，不会打开的，百度查一下"Anaconda如何打开jupyter notebook文件"，或者我的主页Python仓库里面Python编辑器里面有写。
+1. 笔记是用Jupyter Notebook打开的，不会打开的，百度查一下"Anaconda如何打开jupyter notebook文件"，或者我的主页Python仓库里面"00_Python编辑器"里面有写。
 2. 安装Jupyter Notebook的目录插件，可以快速通过目录，跳转到相应的章节，如下图所示。
 
 补充说明：C++代码我是在VS2019中运行的，Jupyter Notebook仅是笔记文档。
