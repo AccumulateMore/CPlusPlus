@@ -1,6 +1,6 @@
 # 最全面的 C++ 笔记
 
-视频讲解：
+视频讲解【主讲人：黑马程序员】：
 
 1. https://www.bilibili.com/video/BV1et411b73Z?p=1
 
