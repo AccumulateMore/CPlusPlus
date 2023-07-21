@@ -1,6 +1,6 @@
 # 最全面的 C++ 笔记
 
-视频讲解【主讲人：黑马程序员】：
+C++ 视频讲解【主讲方：黑马程序员】【对应笔记：01-33】：
 
 1. https://www.bilibili.com/video/BV1et411b73Z?p=1
 
@@ -14,9 +14,15 @@
 
 ![image](https://user-images.githubusercontent.com/60348867/199900750-6ee1becc-d5ce-49ac-81e9-83d4e276114f.png)
 
-补充：我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~~♥
+补充：
+
+我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~♥
 
 1. https://github.com/AccumulateMore
+
+我的知乎主页，还有其他领域的笔记，希望能帮助到你~♥
+
+https://www.zhihu.com/people/bao-bei-ru-huai
 
 "♥我的笔记，希望对你有帮助♥"
 
