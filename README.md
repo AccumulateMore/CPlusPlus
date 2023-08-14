@@ -20,7 +20,7 @@
 
 1. https://github.com/AccumulateMore
 
-我的知乎主页，还有其他领域的笔记，希望能帮助到你~~♥
+我的知乎主页，还有其他领域的笔记，希望能帮助到你~~♥ 
 
 1. https://www.zhihu.com/people/bao-bei-ru-huai
 
