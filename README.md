@@ -24,7 +24,7 @@
 
 1. https://www.zhihu.com/people/bao-bei-ru-huai
 
-我的哔哩哔哩 （未来更新最前沿paper、更新商业级项目~）
+我的哔哩哔哩 （未来更新商业级项目~）
 
 1. https://space.bilibili.com/402601153?spm_id_from=333.788.0.0
    
