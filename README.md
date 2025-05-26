@@ -43,7 +43,7 @@
 
 | 【深度学习 学习交流①群】 | 【深度学习 学习交流②群】 | 微信 | 
 | -------- | -------- | -------- |
-| ![312f346ad393a2f617f21da7ffec9d8](https://github.com/AccumulateMore/CV/assets/60348867/c99750a2-89c0-45ed-bf42-e8f63a222d60)<br/> | ![2f44c2648aaf04f393162501e9e4e0a](https://github.com/AccumulateMore/CV/assets/60348867/d6c44e7b-8349-4de3-b91b-ed62ee7c1544)<br/> | ![8e4be32088b21d519b0b32f97623be6](https://github.com/user-attachments/assets/4be7d481-b7a0-4864-9ba4-e3155a66470b)<br> | 
+| ![312f346ad393a2f617f21da7ffec9d8](https://github.com/AccumulateMore/CV/assets/60348867/c99750a2-89c0-45ed-bf42-e8f63a222d60)<br/> | ![2f44c2648aaf04f393162501e9e4e0a](https://github.com/AccumulateMore/CV/assets/60348867/d6c44e7b-8349-4de3-b91b-ed62ee7c1544)<br/> | ![f1ab900951ff142e86e1f3833b9207d](https://github.com/user-attachments/assets/6e1a894f-4007-41a8-85c1-2488b00d8097)<br> | 
 
 超过200人，扫码入群方式失效，只能微信好友邀请入群。
 
