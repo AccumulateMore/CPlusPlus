@@ -164,9 +164,13 @@
 
 我已经指导过上千位同学，即使市场大环境不好，很多同学都入职各家公司成功了。
 
-| 金九 内推第一名 | 银十 内推第一名 | 2024内推第一名 | 
+| 2024届金九 内推第一名 | 2024届银十 内推第一名 | 2024届年度 内推第一名 | 
 | ------ |  ------ |  ------ | 
-| ![eda6e9ca0f5ae0ca9da1dd193e17306](https://github.com/user-attachments/assets/e2f38221-3112-4c28-bf96-fa86fd82aa72)<br/>|![21ad65da6049aed8a878b5f5c011d7a](https://github.com/user-attachments/assets/c5316cb3-0943-46a0-8c2d-8aed86ff5149)<br/> | ![7849d9a28b4242737194a6d3e685688](https://github.com/user-attachments/assets/f3c9ac1b-f13a-401e-85bd-e87768272b39)<br> | 
+| ![eda6e9ca0f5ae0ca9da1dd193e17306](https://github.com/user-attachments/assets/e2f38221-3112-4c28-bf96-fa86fd82aa72)<br/>|![21ad65da6049aed8a878b5f5c011d7a](https://github.com/user-attachments/assets/c5316cb3-0943-46a0-8c2d-8aed86ff5149)<br/> | ![7849d9a28b4242737194a6d3e685688](https://github.com/user-attachments/assets/561e9a32-d188-457e-a7f9-6398c85591c5)<br> | 
+
+| 2024届 内推第一名 | 2024届 内推第一名 | 2024届 内推第一名 | 
+| ------ | ------ | ------ | 
+| ![19634e072b32fa2a244a4f8551d238c](https://github.com/user-attachments/assets/71e88eb9-c2a8-483d-a4e8-bfcf3f111bac)<br/> | ![19634e072b32fa2a244a4f8551d238c](https://github.com/user-attachments/assets/71e88eb9-c2a8-483d-a4e8-bfcf3f111bac)<br/> | ![19634e072b32fa2a244a4f8551d238c](https://github.com/user-attachments/assets/71e88eb9-c2a8-483d-a4e8-bfcf3f111bac)<br> | 
 
 一起沾沾喜气，好运是可以传染的~
 
