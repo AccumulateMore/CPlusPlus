@@ -28,9 +28,9 @@
 
 1. https://github.com/AccumulateMore
 
-我的哔哩哔哩, 大模型、多模态笔记【手把手教你做科研 更新ing】，希望能帮助到你~
+我的YouTube主页, 还有其他面试必刷的笔记，希望能帮助到你~
 
-1. https://www.bilibili.com/video/BV1xM4m1m7vA/?spm_id_from=333.999.0.0&vd_source=c9745e4447536b28b2b0735071d30bd6
+1. https://youtube.com/@小王同学在积累
    
 "♥我的笔记，希望对你有帮助♥"
 
