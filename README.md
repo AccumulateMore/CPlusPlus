@@ -178,7 +178,7 @@
 
 （不要等到火烧眉毛，再来找我抢救.......）
 
-![36e4754eb3279809d2ce69cffb46e29](https://github.com/user-attachments/assets/31ddbf11-8e2b-47d2-9c11-d4a18270b67d)
+<img width="1057" height="502" alt="e94f93124ea5b9626bc1cecec9eda334" src="https://github.com/user-attachments/assets/7d107db8-ca3b-4fe1-89fc-76aed059c924" />
 
 -------------------------------------------------------------
 -------------------------------------------------------------
