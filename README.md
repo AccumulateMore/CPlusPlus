@@ -58,11 +58,13 @@
 
 帮你们就业，有意向的可以投简历
 
-备注：初学者也可以根据市场上就业需求，去学习自己
+备注：初学者也可以根据市场上就业需求，去学习自己。
 
 联影医疗 地点(可选)：上海、北京、深圳、武汉、广州、成都、西安、沈阳、三亚等
 
 联影简介：上市千亿公司，科创板最大IPO，在国家号召自主研发高端医疗器械背景下，发展前景十分广阔。
+
+![deacdd636739624967e5ff635212b8ab](https://github.com/user-attachments/assets/2dc604b4-1830-4161-aa1e-9e1f7204167a)
 
 岗位职责【图像方向】：
 
@@ -73,7 +75,7 @@
 
 任职要求：
 
-1. 熟悉机器视觉原理，熟悉以下领域之一：3D重建、立体视觉、SLAM、通用图像视频分类、目标检测、人体姿态估计。
+1. 熟悉机器视觉原理，熟悉以下领域之一：3D重建、立体视觉、SLAM、图像视频分类、目标检测、人体姿态估计。
 2. 熟悉以下医学图像后处理算法之一：图形算法、重建算法、分割算法、检测算法、分类算法、配准算法、深度学习算法、流体力学算法、灌注算法、纹理分析算法等。
 
 岗位职责【语音方向】：
@@ -101,8 +103,8 @@
 
 1. 具有机器学习、自然语言处理、医学影像分析，或相关领域的学习和研究。
 2. 有预训练大语言模型或GPT模型等相关研究开发经验。
-3. 在机器学习(ICML，NeurlPS、ICLR等)、计算机视觉(CVPR、ICCV、ECCV等)、自然语言处理(ACL，EMNLP等)和医疗影像分析(MICCAI、IPMI)等顶级会议，或者顶级期刊(IEEE T-PAMI，IEEE TMI、Medical lmage Analysis)发表过相关论文。
-4. 具有人工智能相关专业(计算机视觉、机器学习、医疗图像分析等)硕士及以上学位。
+3. 在机器学习（ICML、NeurlPS、ICLR等），计算机视觉（CVPR、ICCV、ECCV等），自然语言处理（ACL、EMNLP等）和医疗影像分析（MICCAI、IPMI）等顶级会议，或者顶级期刊（IEEE T-PAMI、IEEE TMI、Medical lmage Analysis）发表过相关论文。
+4. 具有人工智能相关专业（计算机视觉、机器学习、医疗图像分析等）硕士及以上学位。
 5. 能熟练使用英语。
 
 补充：能内推简历的，也可以联系我，把岗位职责、任职要求发给我【你收公司内推奖金、ta们就业，双赢】。
@@ -164,8 +166,6 @@
 | ------ | ------ | ------ |
 | <div align="center"><img width="1080" height="1920" src="https://github.com/user-attachments/assets/1fc17ea7-23a5-47a9-9bfe-0f15390bc6a7" /></div> | <div align="center"><img width="1080" height="1920" src="https://github.com/user-attachments/assets/72d93bf4-5f3c-435e-9f87-e80851b5ef1e" /></div> | <div align="center"><img width="1080" height="1920" src="https://github.com/user-attachments/assets/561e9a32-d188-457e-a7f9-6398c85591c5" /></div> |
 | <div align="center">一起沾沾喜气，好运是可以传染的</div> | <div align="center">一起沾沾喜气，好运是可以传染的</div> | <div align="center">一起沾沾喜气，好运是可以传染的</div> |
-
-![deacdd636739624967e5ff635212b8ab](https://github.com/user-attachments/assets/f64efba5-5704-4374-b007-84885b390d5a)
 
 我的经验：拿offer最快的方式，就是不走弯路，不走错路。方向错了，努力没有意义。
 
