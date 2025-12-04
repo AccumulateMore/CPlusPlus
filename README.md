@@ -169,12 +169,9 @@
 
 经验总结：拿offer最快的方式，就是不走弯路，不走错路。方向错了，努力没有意义。
 
-<div align="center">
-  <img width="1057" height="502" src="https://github.com/user-attachments/assets/f1353328-fb8b-44d3-8199-4d31bae9b108" />
-</div>
-<div align="center">
-  不要等到火烧眉毛，再来找我抢救……
-</div>
+（不要等到火烧眉毛，再来找我抢救.......）
+
+<img width="1057" height="502" alt="e94f93124ea5b9626bc1cecec9eda334" src="https://github.com/user-attachments/assets/e25e1e28-2047-4afd-8a82-f71e04af65f2" />
 
 -------------------------------------------------------------
 -------------------------------------------------------------
